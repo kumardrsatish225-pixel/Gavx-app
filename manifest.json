@@ -1,0 +1,11 @@
+{
+  "name": "GVEX Networking",
+  "short_name": "GVEX",
+  "description": "GVEX networking app prototype",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fc",
+  "theme_color": "#1747f5",
+  "orientation": "portrait",
+  "icons": []
+}
